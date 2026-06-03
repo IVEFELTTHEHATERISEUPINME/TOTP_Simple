@@ -82,6 +82,26 @@
 
 В демонстрационных целях пароль показывается в всплывающем окне. В реальных системах OTP должен доставляться через защищённый канал (SMS, push, аутентификатор).
 
+## Скриншоты
+
+### Главное окно
+<img width="407" height="374" alt="image" src="https://github.com/user-attachments/assets/c4d37d0e-e542-4a8b-8fbf-1af9b1705068" />
+
+### Генерация кода
+<img width="440" height="215" alt="image" src="https://github.com/user-attachments/assets/e82f209f-5907-4598-85df-a71f228457d5" />
+
+### Ввод правильного пароля
+<img width="506" height="195" alt="image" src="https://github.com/user-attachments/assets/bc61f8d5-e0d3-4d52-8905-2278f7fad163" />
+
+### Ввод неправильного пароля
+<img width="256" height="191" alt="image" src="https://github.com/user-attachments/assets/beec3f40-5e16-4dba-b1b1-bef95269c951" />
+
+### Истечение времени действия пароля
+<img width="484" height="189" alt="image" src="https://github.com/user-attachments/assets/a3081c7b-c207-4fee-b191-ec7799b8a95e" />
+
+### Ввод неправильного пароля 3 раза
+<img width="508" height="226" alt="image" src="https://github.com/user-attachments/assets/c0ab2ddf-4527-4f8a-b6a5-9b6ecd378826" />
+
 ## 📚 Источники
 
 - RFC 4226 - HOTP
@@ -91,11 +111,3 @@
 ## 📄 Лицензия
 
 MIT License — свободное использование, копирование, модификация.
-
-
-
-
-
-
-
-
